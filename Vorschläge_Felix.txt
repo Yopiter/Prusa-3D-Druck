@@ -1,0 +1,14 @@
+Hardware:
+  Vorhanden:
+  end caps
+  Alu-Kupplungen für z-Achse
+  Mk3 Heat bed 3 mm Alu
+
+  Benötigt:
+  mk8 Extruder
+  kapazitives/induktives Bed leveling
+
+
+Software:
+Cura Slicer
+Fusion 360 (Martinius.schneider, PW1)
